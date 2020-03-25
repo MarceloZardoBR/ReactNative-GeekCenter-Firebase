@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65315933568",
+    "firebase_url": "https://geek-center-cc6a3.firebaseio.com",
+    "project_id": "geek-center-cc6a3",
+    "storage_bucket": "geek-center-cc6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65315933568:android:12763dd627ecdd78094565",
+        "android_client_info": {
+          "package_name": "com.geekcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65315933568-l7iu98tnurhcsp1sgmer7drqh30e2h4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG73FRD_RMmzbNlXqaHMrjxzX6OUDNoYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65315933568-l7iu98tnurhcsp1sgmer7drqh30e2h4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

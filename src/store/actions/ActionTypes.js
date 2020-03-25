@@ -1,0 +1,16 @@
+export const CREATE_USER = 'CREATE_USER';
+export const LOGGIN_USER = 'LOGGIN_USER';
+export const IS_LOADED = 'IS_LOADED';
+export const LOADING_USER = 'LOADING_USER'
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const EXPIRED_LOGIN = 'EXPIRED_LOGIN';
+export const ADD_ADDRESS = 'ADD_ADDRESS';
+export const SET_MESSAGE = 'SET_MESSAGE';
+
+export const NEW_PRODUCT = 'NEW_PRODUCT';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const GET_PRODUCT =  'GET_PRODUCT';
+export const ADDING_PRODUCT = 'ADDING_PRODUCT';
+export const PRODUCT_ADDED = 'PRODUCT_ADDED';
+export const REQ_REMOVE_PRODUCT = 'REQ_REMOVE_PRODUCT';
+export const PRODUCT_REMOVED = 'PRODUCT_REMOVED';
