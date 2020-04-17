@@ -8,6 +8,10 @@ Resolvi descontinuar esse projeto com o Firebase devido a falta da funcionalidad
 produtos, para isso seria necessário usar uma ferramenta de terceiro (Algolia), nesse caso resolvi manter apenas o upload da imagem no Storage
 do Firebase e mudar o backend para NodeJS com MongoDB.
 
+## Futura Continuação
+
+Quando terminar a migração e finalização do APP com o MongoDB possivelmente irei publicar em outro repositório.
+
 ## Tecnologias usadas
   - React Hooks
   - Redux
